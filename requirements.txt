@@ -92,8 +92,6 @@ python-dateutil
 python-dotenv
 python-json-logger
 pytz
-pywin32
-pywinpty
 PyYAML
 pyzmq
 referencing
@@ -132,3 +130,4 @@ webencodings
 websocket-client
 widgetsnbextension
 wsproto
+
